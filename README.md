@@ -14,6 +14,9 @@ Update: I just added some files for this stuff. Test it out, but example.cmd, Br
 
 For some reasons, I just a beginner for Github. So this is mein demo.
 
+## Footnote
 Copyright © CommonwealthEmpire272017/demo-repository
+
 Created on: 10:31 AM 9/2/2020
+
 All right served.
